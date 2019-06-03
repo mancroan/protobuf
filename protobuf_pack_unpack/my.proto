@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message mymsg {
+  required int32 len = 1;
+  required int32 typ = 2;
+}

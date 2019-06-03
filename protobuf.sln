@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "protobuf_pack_unpack", "protobuf_pack_unpack\protobuf_reflect.vcxproj", "{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "protobuf_dispatch", "protobuf_dispatch\protobuf_dispatch.vcxproj", "{EB957867-76FD-4F6C-9D4B-FB3522EACF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Debug|Win32.Build.0 = Debug|Win32
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Debug|x64.ActiveCfg = Debug|x64
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Debug|x64.Build.0 = Debug|x64
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Release|Win32.ActiveCfg = Release|Win32
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Release|Win32.Build.0 = Release|Win32
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Release|x64.ActiveCfg = Release|x64
+		{028AFE7B-CAB1-4462-B07E-BCA9D1C6F8DD}.Release|x64.Build.0 = Release|x64
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Debug|Win32.Build.0 = Debug|Win32
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Debug|x64.ActiveCfg = Debug|x64
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Debug|x64.Build.0 = Debug|x64
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Release|Win32.ActiveCfg = Release|Win32
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Release|Win32.Build.0 = Release|Win32
+		{EB957867-76FD-4F6C-9D4B-FB3522EACF94}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
